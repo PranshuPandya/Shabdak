@@ -1,0 +1,2 @@
+# Shabdak
+Wordle in Gujarati
